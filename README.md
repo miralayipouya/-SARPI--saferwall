@@ -1,4 +1,4 @@
-{SARPI} Might be too much for our AV-Emulation, but also included extra features such as bad-ass analysis on the binary
+{SARPI} Might be too much for our AV-Emulation, but also included extra features such as bad-ass analysis on the binary such as IOC/Report generation and inteligent analysis both static/dynamic.
 ==============
 <p align="center"><a href="https://saferwall.com" target="_blank" rel="noopener noreferrer"><img width="100" src="https://i.imgur.com/zjCOKPo.png" alt="Saferwall logo"></a></p>
 
